@@ -1,0 +1,17 @@
+/*Responsiveness*/
+
+
+
+
+@media only  screen and(max-width: 1439px) {
+   .navbar{
+      padding: 20px 10px !important;
+   }
+   .nav-content {
+      float: none;
+      display: block;
+      text-align: left;
+   }
+
+
+}
